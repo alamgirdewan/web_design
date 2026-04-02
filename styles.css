@@ -123,8 +123,8 @@ nav a:hover {
 .sec1-footer p {
     font-size: 15px;
     line-height: 1.9;
-    color: #6b5c48;
-    text-align: justify;
+    color: #4a341b;
+    text-align: left;
     max-width: 980px;
     margin: 0 auto;
     font-weight: 300;
@@ -160,18 +160,18 @@ nav a:hover {
     margin-top: 26px;
     font-size: 15.5px;
     line-height: 1.88;
-    color:  #6b5c48;
-    text-align: justify;
+    color:  #4a341b;
+    text-align: left;
     font-weight: 300;
 }
 
 .product-section-title {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 18px;
-    font-weight: 600;
+    font-size: 22px;
+    font-weight: 700;
     letter-spacing: 4px;
     text-transform: uppercase;
-    color:  #9b6c3a;
+    color:  #4a341b;
     text-align: center;
     margin: 60px 0 30px;
 }
@@ -229,7 +229,7 @@ nav a:hover {
     line-height: 1.72;
     color: #6b5c48;
     font-weight: 300;
-    text-align: justify;
+    text-align: left;
 }
 
 
@@ -264,8 +264,9 @@ nav a:hover {
 
 .visit-label {
     font-size: 18px; 
-    font-style: italic;
-    color:   #9b6c3a;
+    font-style: normal;
+    font-weight: 600;
+    color:  #4a341b;
     letter-spacing: 1px;
     display: block;
     margin-bottom: 14px;
